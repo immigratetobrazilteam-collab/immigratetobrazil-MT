@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    font-family: Verdana, sans-serif;
+    font-family: Verdana;
     background: #E0FFFF;
     color: #006400;
 }
 h1, h2 {
-    font-family: Nature, serif;
+    font-family: Nature;
     color: #228B22;
 }
 a {

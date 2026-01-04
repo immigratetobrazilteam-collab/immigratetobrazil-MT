@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Mato Grosso Immigration Site",
+  "url": "https://immigratetobrazil.com/mt/",
+  "description": "Mato Grosso is Brazil's third-largest state by area in the Central-West region, featuring diverse ecosystems like the Pantanal wetland and Cerrado, with a focus on agriculture (soy, maize, cotton), cattle ranching, and tourism in national parks.",
+  "keywords": [
+    "Mato Grosso",
+    "Pantanal",
+    "Cerrado",
+    "agriculture",
+    "soy production",
+    "Chapada dos Guimar\u00e3es",
+    "Cuiab\u00e1"
+  ],
+  "inLanguage": "en"
+}
